@@ -23,4 +23,4 @@
 <p>sudo systemctl start docker<\p>
 <p>Проверил что демон Docker стартовал без ошибок</p>
 <p>sudo systemctl status docker</p>  
-<\ul>  
+</ul>  
