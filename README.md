@@ -15,5 +15,7 @@
 <p>Обновить локальную базу пакетов:<\p>
 <p>sudo yum check-update<\p>
 <p>sudo yum upgrade<\p>
-<p>![image](https://user-images.githubusercontent.com/98658046/168746075-40a50c6d-45b3-4c21-81b1-47a7102a3fe3.png)<\p> 
+<p>Добавил репозиторий и установит docker<\p>
+<p>curl -fsSL https://get.docker.com/ | sh<\p>
+<\p> 
 <\ul>  
